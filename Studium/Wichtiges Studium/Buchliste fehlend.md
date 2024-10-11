@@ -1,0 +1,2 @@
+- Markus Neumann: "Java Kompendium, Professionell Java programmieren lernen", BMU-Verlag, ISBN 978-3966450539
+- 

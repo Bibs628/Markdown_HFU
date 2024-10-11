@@ -1,0 +1,18 @@
+{
+	"nodes":[
+		{"id":"b3fc4b5d71eec295","type":"text","text":"Botschaft\nMedien","x":-52,"y":-220,"width":250,"height":60,"color":"3"},
+		{"id":"b2c7a140e6cc64dc","type":"text","text":"Störsignale","x":-52,"y":-60,"width":250,"height":60,"color":"6"},
+		{"id":"f2f7abf7ad5080ea","type":"text","text":"Sender","x":-520,"y":-220,"width":250,"height":60,"color":"2"},
+		{"id":"7f1884e7c828a8f1","type":"text","text":"Empfänger","x":420,"y":-220,"width":250,"height":60,"color":"2"},
+		{"id":"011127c193817b3b","type":"text","text":"Wirkung","x":198,"y":132,"width":250,"height":60,"color":"4"},
+		{"id":"8e360305d8a9322a","type":"text","text":"Feedback","x":-302,"y":132,"width":250,"height":60,"color":"4"}
+	],
+	"edges":[
+		{"id":"31247f72eb5f0595","fromNode":"f2f7abf7ad5080ea","fromSide":"right","toNode":"b3fc4b5d71eec295","toSide":"left","color":"1","label":"Codierung"},
+		{"id":"037733a4ebd51529","fromNode":"b3fc4b5d71eec295","fromSide":"right","toNode":"7f1884e7c828a8f1","toSide":"left","color":"1","label":"Decodierung"},
+		{"id":"ebe1e0735357c4eb","fromNode":"011127c193817b3b","fromSide":"left","toNode":"8e360305d8a9322a","toSide":"right","color":"2"},
+		{"id":"8da89bb856604c4a","fromNode":"8e360305d8a9322a","fromSide":"left","toNode":"f2f7abf7ad5080ea","toSide":"left","color":"2"},
+		{"id":"da0132d3af1ccf7b","fromNode":"b2c7a140e6cc64dc","fromSide":"top","toNode":"b3fc4b5d71eec295","toSide":"bottom"},
+		{"id":"f28c583a4f1f2295","fromNode":"7f1884e7c828a8f1","fromSide":"right","toNode":"011127c193817b3b","toSide":"right","color":"2"}
+	]
+}

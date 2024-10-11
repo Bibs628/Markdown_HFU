@@ -1,0 +1,36 @@
+{
+	"nodes":[
+		{"id":"f8bd7ff1c8242dbd","type":"text","text":"Instagramm","x":-420,"y":-440,"width":250,"height":60,"color":"6"},
+		{"id":"294732ba281dce7f","type":"text","text":"YouTube","x":-120,"y":-440,"width":250,"height":60,"color":"1"},
+		{"id":"0026800b88c38d82","type":"text","text":"TikTok","x":-720,"y":-440,"width":250,"height":60,"color":"5"},
+		{"id":"fc5608fc08381695","type":"text","text":"Pinterest","x":-1020,"y":-440,"width":250,"height":60},
+		{"id":"aea7da82c12a0a05","type":"text","text":"Alternative Plattformen:\n- DevianArt\n- ArtStation","x":-120,"y":120,"width":250,"height":140},
+		{"id":"f6f36180ae7e68bc","type":"text","text":"Alternative Plattformen:\n- DevianArt\n- ArtStation","x":-420,"y":120,"width":250,"height":140},
+		{"id":"0ee326ff7bce65a4","type":"text","text":"Alternative Plattformen:\n- DevianArt\n- ArtStation","x":-1020,"y":120,"width":250,"height":140},
+		{"id":"9f5f00b82f53292d","type":"text","text":"Alternative Plattformen:\n- DevianArt\n- ArtStation","x":-720,"y":120,"width":250,"height":140},
+		{"id":"526adc77c632dd39","x":-1320,"y":-322,"width":250,"height":60,"type":"text","text":"Art der Beiträge:"},
+		{"id":"55caeddba82e4956","type":"text","text":"Art der Biträge:\n- Videos\n- Shorts\n- Livestream\n- Communityposts","x":-120,"y":-660,"width":250,"height":161},
+		{"id":"a48518688dd9d4a9","type":"text","text":"Art der Beiträge:\n- Posts\n- Story\n- Beiträge","x":-420,"y":-661,"width":250,"height":161},
+		{"id":"022be7f780cfaaad","type":"text","text":"Art der Beiträge:\n- Shorts\n- Livestreams","x":-720,"y":-661,"width":250,"height":121},
+		{"id":"c645a119aa8b5955","type":"text","text":"Art der Beiträge:\n- Posts","x":-1020,"y":-660,"width":250,"height":120},
+		{"id":"429bc4d3ebeb7dd2","x":-120,"y":-322,"width":250,"height":60,"type":"text","text":"Video"},
+		{"id":"85ac79844f9e6391","x":-120,"y":-240,"width":250,"height":60,"type":"text","text":"Shorts"},
+		{"id":"6f0736464f6dd183","x":-420,"y":-240,"width":250,"height":60,"type":"text","text":"Story"},
+		{"id":"dce9bf6d85ee3aaf","x":-1020,"y":-160,"width":250,"height":60,"type":"text","text":"Posts"},
+		{"id":"97fc0f0add60439c","x":-720,"y":-80,"width":250,"height":60,"type":"text","text":"Livestreaming"},
+		{"id":"e49de3dd750649ad","x":-420,"y":-160,"width":250,"height":60,"type":"text","text":"Posts"},
+		{"id":"7320a1159d16a59f","x":-120,"y":-160,"width":250,"height":60,"type":"text","text":"Communityposts"},
+		{"id":"c2846453fc2d45c8","x":-120,"y":-80,"width":250,"height":60,"type":"text","text":"Livestreams"},
+		{"id":"e225ed6e4ef7934c","x":-720,"y":-240,"width":250,"height":60,"type":"text","text":"Shorts"},
+		{"id":"b6b16aa1ae2ae63f","x":-420,"y":-80,"width":250,"height":60,"type":"text","text":"Live"},
+		{"id":"9d0bcfb787ca8830","x":-420,"y":-322,"width":250,"height":60,"type":"text","text":"Beiträge"}
+	],
+	"edges":[
+		{"id":"90e063235393be3d","fromNode":"85ac79844f9e6391","fromSide":"left","toNode":"6f0736464f6dd183","toSide":"right","toEnd":"none","color":"#000000"},
+		{"id":"fc6984bf11322c69","fromNode":"6f0736464f6dd183","fromSide":"left","toNode":"e225ed6e4ef7934c","toSide":"right","toEnd":"none","color":"#000000"},
+		{"id":"bd02b5cba640410c","fromNode":"dce9bf6d85ee3aaf","fromSide":"right","toNode":"e49de3dd750649ad","toSide":"left","toEnd":"none","color":"#000000"},
+		{"id":"8fab3d22a43bc70d","fromNode":"e49de3dd750649ad","fromSide":"right","toNode":"7320a1159d16a59f","toSide":"left","toEnd":"none","color":"#000000"},
+		{"id":"545e94d729caf23f","fromNode":"b6b16aa1ae2ae63f","fromSide":"right","toNode":"c2846453fc2d45c8","toSide":"left"},
+		{"id":"b587a5431648e6d6","fromNode":"b6b16aa1ae2ae63f","fromSide":"left","toNode":"97fc0f0add60439c","toSide":"right"}
+	]
+}

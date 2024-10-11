@@ -1,0 +1,4 @@
+#Studium #Programmieren #Prof_Dr_Dirk_Eisenbiegler #Semester1 
+
+>Eine **Maschinensprache**, wie sie bei **Maschinencode** bzw. **nativem Code** verwendet wird, ist eine [Programmiersprache](https://de.wikipedia.org/wiki/Programmiersprache "Programmiersprache"), bei der die [Instruktionen](https://de.wikipedia.org/wiki/Instruktion#Programmierbefehl "Instruktion"), die vom [Prozessor](https://de.wikipedia.org/wiki/Prozessor "Prozessor") ausgeführt werden sollen, als formale Sprachelemente festgelegt sind. Aufgrund ihrer Nähe zur [Hardware](https://de.wikipedia.org/wiki/Hardware "Hardware") wird sie auch verallgemeinernd als _die_ „Programmiersprache eines Computers“ bezeichnet.
+>https://de.wikipedia.org/wiki/Maschinensprache

@@ -1,0 +1,12 @@
+{
+	"nodes":[
+		{"id":"6a1738b0668c3ad6","x":-440,"y":-520,"width":250,"height":60,"type":"text","text":"Pflanzen"},
+		{"id":"3859827bf342cd25","x":-519,"y":-376,"width":250,"height":60,"type":"text","text":"Wattmelone"},
+		{"id":"031e38dcb869086b","x":-240,"y":-376,"width":250,"height":60,"type":"text","text":"Floppy (Speicherblume)"},
+		{"id":"ca29fb819d13a989","x":40,"y":-376,"width":250,"height":60,"type":"text","text":"Maiskolben"},
+		{"id":"016b499d6d0b20b9","x":40,"y":-273,"width":250,"height":333,"type":"file","file":"IMG_20240809_150445.jpg"},
+		{"id":"7ca0e1546d1309cd","x":-240,"y":-273,"width":250,"height":333,"type":"file","file":"IMG_20240809_150441.jpg"},
+		{"id":"a56c9bb8d56a3ff6","x":-519,"y":-273,"width":250,"height":333,"type":"file","file":"IMG_20240809_150555.jpg"}
+	],
+	"edges":[]
+}

@@ -1,0 +1,70 @@
+Ein [[Solarpunk]] [[Farming]] Game
+
+Essentials:
+- Optik
+	- [ ] 2.5D-ish
+		- [ ] 2D mit lokalen und Glöobalen Paralaxen
+	- [ ] Assets
+		- [ ] Erstellt in Blender mit Pixel Render
+		- [ ] Nachgezeichnet in 
+- Gameplay
+	- [ ] Stardew Valley - ish
+				- [ ] Hund zur Überwachung Hühner/Enten
+				- [ ] Katze gegen Ungezieferbekämpfung
+			- [ ] Strom
+				- [ ] Solar
+				- [ ] Wind
+			- [ ] Stromspeicher
+				- [ ] Nachhaltig
+				- [ ] Recyclebar?
+			- [ ] Wasser
+				- [ ] Regenwawassersammler
+			- [ ] Wasserstoff (Mobiler Akku)
+			- [ ] Werkzeuge
+				- [ ] Harke
+				- [ ] Gießkanne / Bewässerrungsgeräte
+				- [ ] Brechstange
+				- [ ] Hammer
+			- [ ] Nahrung
+				- [ ] Regenwurmfarm
+				- [ ] Insektenfarm
+				- [ ] Hühner/Entenfarm
+				- [ ] Obstgärten
+				- [ ] Gemüsefarmen
+					- [ ] Karotte
+					- [ ] Weizen
+					- [ ] Kartoffel
+					- [ ] Kohl
+					- [ ] Salat
+					- [ ] Zwiebel
+					- [ ] Lauch
+			- [ ] Werkstoffe
+				- [ ] Holz
+					- [ ] Werkzeuge
+					- [ ] Gebäude
+				- [ ] Stein
+					- [ ] Gebäude
+					- [ ] Mauern
+				- [ ] Erz
+					- [ ] Werkzeuge
+					- [ ] Maschienen
+				- [ ] Flachs
+			- [ ] Schrottteile
+- Story
+	- [ ] Start an einem Müllberg
+	- [ ] Regeneration lokaler Umwelt
+	- [ ] Schrottsammellei
+	- [ ] Erkundung
+	- [ ] Helfen weiterer Überlebender
+	- [ ] Beginn: Start in Heruntergekommener Stadt
+	- [ ] Early Game: Einzug in ein Vorläufiges Zuhause
+		- [ ] Fokus auf Erkundung und Plünderung
+	- [ ] Mid Game: Umzug in ein festes Heim
+		- [ ] Beginn Farmen, 
+		- [ ] erweitere Herstellungen
+	- [ ] End Game???
+- Orte
+	- [ ] Müllberg
+
+Wattmelonen
+Datenkolben

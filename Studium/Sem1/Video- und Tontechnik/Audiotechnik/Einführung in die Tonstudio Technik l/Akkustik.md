@@ -1,0 +1,1 @@
+Akkustik ist die Wissenschaft vom Schall. Schall sind mechanische [[Schwingungen]] und [[Wellen]] eines elastischen Mediums (aka eigentlich allem). [[Schwingungen]] werden von einzelnen Teilchen ausgeführt, z.B. von Luftmolekühlen, während die Gesamtheit einzelnen schwingenden Teilchen

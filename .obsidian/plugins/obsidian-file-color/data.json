@@ -1,0 +1,26 @@
+{
+  "cascadeColors": false,
+  "colorBackground": true,
+  "palette": [
+    {
+      "id": "gtuJKqLR1TQ8hmLXEvmq8",
+      "name": "PDF Red",
+      "value": "#ce0909"
+    },
+    {
+      "id": "pqVriHzjiuFH_NxUQUT3Y",
+      "name": "Main Layer",
+      "value": "#ffffff"
+    }
+  ],
+  "fileColors": [
+    {
+      "path": "Studium/Video- und Tontechnik",
+      "color": "pqVriHzjiuFH_NxUQUT3Y"
+    },
+    {
+      "path": "Studium/Wichtiges Studium",
+      "color": "pqVriHzjiuFH_NxUQUT3Y"
+    }
+  ]
+}

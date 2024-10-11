@@ -1,0 +1,1 @@
+jedes visuelle Medium transportiert Informationen mittels einer "Bildsprache" (engl. visual Style)

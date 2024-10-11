@@ -1,0 +1,24 @@
+{
+	"nodes":[
+		{"id":"d116ce51373b2368","type":"group","x":-660,"y":-560,"width":1500,"height":948,"color":"4","label":"mögliche Styles"},
+		{"id":"2f5c879448f3de19","type":"group","x":100,"y":-480,"width":720,"height":848,"color":"3","label":"Cartoon Style"},
+		{"id":"ff249c9525ed5774","type":"group","x":-640,"y":-480,"width":720,"height":847,"color":"6","label":"Pixel Style"},
+		{"id":"17d28f272ddd5ab8","type":"file","file":"20240810123354_1.jpg","x":-620,"y":-420,"width":399,"height":167,"color":"6"},
+		{"id":"ac604b8803500112","type":"text","text":"Stardew Valley","x":-190,"y":-366,"width":250,"height":60,"color":"6"},
+		{"id":"d5693aa53b19a1c0","type":"file","file":"Moonstone_Island_BU4NqgxLEp.png","x":-620,"y":-220,"width":399,"height":167,"color":"6"},
+		{"id":"cf1e65ca6ef4774e","type":"text","text":"Moonstone Island","x":-190,"y":-166,"width":250,"height":60,"color":"6"},
+		{"id":"60214b396038ca50","type":"file","file":"CoreKeeper_Jf3jDwbFRd.png","x":-620,"y":-20,"width":399,"height":167,"color":"6"},
+		{"id":"aae05ff7bf743e76","type":"file","file":"WanderingVillage_fEndVitwna.png","x":400,"y":-419,"width":399,"height":167,"color":"3"},
+		{"id":"396bd3f71a8b8bef","type":"text","text":"Soundfall","x":120,"y":234,"width":250,"height":60,"color":"3"},
+		{"id":"e02f0931d1937dad","type":"file","file":"BeatShooter-Win64-Shipping_yuXEAe1VAD.png","x":400,"y":181,"width":399,"height":167,"color":"3"},
+		{"id":"7ee2f69a9ae1720b","type":"text","text":"Core Keeper","x":-190,"y":34,"width":250,"height":60,"color":"6"},
+		{"id":"27bb88a5a9252d46","type":"file","file":"Sun_Haven_rfzvc4OCIM.png","x":-620,"y":180,"width":399,"height":167,"color":"6"},
+		{"id":"15cdc1766e681c78","type":"text","text":"Sun Haven","x":-190,"y":234,"width":250,"height":60,"color":"6"},
+		{"id":"fd92e6b6f4646dac","type":"text","text":"The Wanderiing Village","x":120,"y":-366,"width":250,"height":60,"color":"3"},
+		{"id":"c58108fc6b6fdc44","type":"text","text":"Oxygen not Included","x":120,"y":-166,"width":250,"height":60,"color":"3"},
+		{"id":"125c1398d7ccf600","type":"text","text":"Norland","x":120,"y":34,"width":250,"height":60,"color":"3"},
+		{"id":"947eecdea22c88c6","type":"file","file":"Norland_kNb2BjwMdf.png","x":400,"y":-19,"width":399,"height":167,"color":"3"},
+		{"id":"6ef789e9e4f68d04","type":"file","file":"OxygenNotIncluded_yGwKkP7VBB.png","x":400,"y":-219,"width":399,"height":167,"color":"3"}
+	],
+	"edges":[]
+}
