@@ -162,3 +162,6 @@ Das Zusammenspiel von Unternehmens- und Marketing-Strategie
 	- Profitabel sein
 - Marketingziele:
 	- Ein weiteres Projekt durch Crowdfunding zu finanzieren
+
+---
+
