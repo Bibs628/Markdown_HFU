@@ -73,3 +73,69 @@ Gläser - Medienmanagement
 Wirtz - medien und Internetmanagement
 
 
+
+# Wertschöpfung in der Medeinbranche
+
+## Agenda und Lernziele
+- Wertschöpfungskette nach Porter
+- Wertschöpfungskette der Medien
+	- Anwendung auf diverse Medienprodukte bzw. -phänomene
+
+## Wertkette nach M.E. Porter
+>„Jedes Unternehmen ist eine Ansammlung von Tätigkeiten, durch die sein Produkt entworfen, hergestellt, vertrieben, ausgeliefert und unterstützt wird. All diese Tätigkeiten lassen sich in einer Wertkette darstellen.“ (Porter, 2014, S. 61)
+
+Die Wertkette stellt die Stufen des Transformationsprozesses dar, die ein/e Produkt/Dienstleistung durchläuft – vom Ausgangsmaterial bis zur endlichen Verwendung
+
+![[Medienokonomie_Vorlesung 2.pdf#page=4]]
+
+Die unterstützende Aktivitäten sind die Basis für die Primäre Aktivität, ohne Personal kann kein Marketing betrieben werden. 
+
+Durch hervorheben der primären Aktivitäten können Preise von Produkten erhöht werden, um sich von anderen hervorzuheben.
+In der Regel werden durch die unterstützenden Aktivitäten optimiert um Preissenkungen zu erzielen.
+
+
+## Wertschöpfungskette der Medienbranche
+
+![[Medienokonomie_Vorlesung 2.pdf#page=5]]
+
+In dem Schritt 
+
+
+#### Praxisbeispiel: Games
+
+Finanzierung: Intern / Investoren
+Management: ja
+Vertrieb: Eigener Store / Fremde Plattformen 
+Logistik: hauptsächlich digital, bei konsolen noch analog, abwicklung durch subunternehmen
+Beschaffung von Ressourcen: Intern gekauft bis auf Physische Produkte
+
+
+Konzeption: Ideensammlung
+Produktion: Erstellung des Spiels, (Audio, Grafik, Code,...)
+Bündelung: Produktversionen definieren und durch inhalte Abgrenzen
+Distibution: Intern via eigenem Store, auf 3. Plattformen via Steam, XBOX, ... und physisch über händler
+Rezeption / Verwendung: Spiel das halt junge
+
+
+### "Hawk Tuah"-Girl
+
+![[Medienokonomie_Vorlesung 2.pdf#page=12]]
+
+Durch das Virale Meme wurden viele weitere Arten von Kontent kreiert und es ist nicht klar eindeutig wo diese in die Wertschöpfungskette eingeordnet werden können.
+
+#### Knackpunkte der Wertschöpfungskette
+
+- Das Modell ordnet Wertschöpfungsprozesse chronologisch
+	- Übersichtlichkeit der Darstellung 
+- Ist diese chronologische Darstellung tatsächlich auf den Medienbereich anwendbar?
+	- Klassische Medien (z.B. Printprodukte, lineares TV, Radio) eignen sich am besten
+	- Digitale Medien weisen oft weniger lineare Prozesse und Zufallsprodukte auf
+	- Tempo und Schnelllebigkeit von Social Media – siehe # HawkTuah Gir
+
+
+## Zusammenfassung
+
+- Wir haben die klassische Wertschöpfungskette nach Michael Porter besprochen
+- Auch für die Medienbranche kann man eine Wertschöpfungskette konzeptionieren 
+- Wir haben diese Wertschöpfungskette der Medien auf verschiedene Medienprodukte und –phänomene angewendet und Sonderfälle besprochen 
+- Eine Wertschöpfungskette ist ein sinnvolles Analyse-Tool, ihre chronologische Darstellung kann aber die Arbeitsrealität der Medienbranche, gerade der digitalen Medien nicht widerspiegeln
