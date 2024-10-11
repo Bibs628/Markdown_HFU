@@ -9,7 +9,8 @@ nicht nur Konsumgüter werden verwaltet, es ist also der Fall das nahezu alle Be
 
 ## Begriffsdefinition von Marketing
 
-
+Der Begriff **Marketing** oder (deutsch) [Absatzwirtschaft](https://de.wikipedia.org/wiki/Absatzwirtschaft "Absatzwirtschaft") bezeichnet aus historischer Sicht den Unternehmensbereich, dessen Aufgabe (Funktion) es ist, [Produkte](https://de.wikipedia.org/wiki/Produkt_(Wirtschaft) "Produkt (Wirtschaft)") und [Dienstleistungen](https://de.wikipedia.org/wiki/Dienstleistung "Dienstleistung") in einer Weise zum Verkauf anzubieten, dass Käufer dieses Angebot als wünschenswert wahrnehmen. Aus betriebswirtschaftlicher Sicht beschreibt dieser Begriff seit Beginn des [21. Jahrhunderts](https://de.wikipedia.org/wiki/21._Jahrhundert "21. Jahrhundert") das Konzept einer [ganzheitlichen](https://de.wikipedia.org/wiki/Ganzheitlichkeit "Ganzheitlichkeit"), marktorientierten [Unternehmensführung](https://de.wikipedia.org/wiki/Unternehmensf%C3%BChrung "Unternehmensführung") zur Befriedigung der [Bedürfnisse](https://de.wikipedia.org/wiki/Bed%C3%BCrfnis "Bedürfnis") und Erwartungen von [Kunden](https://de.wikipedia.org/wiki/Kunde "Kunde") und anderen Interessengruppen ([Stakeholder](https://de.wikipedia.org/wiki/Stakeholder "Stakeholder")). Damit entwickelt sich das Marketingverständnis von einer operativen Technik zur Beeinflussung des [Kaufverhaltens](https://de.wikipedia.org/wiki/Kaufverhalten "Kaufverhalten") und der [Kaufentscheidung](https://de.wikipedia.org/wiki/Kaufentscheidung "Kaufentscheidung") durch die [Marketing-Mix](https://de.wikipedia.org/wiki/Marketing-Mix "Marketing-Mix")-Instrumente hin zu einer Führungskonzeption, die andere Funktionen wie zum Beispiel Beschaffung, Produktion, Verwaltung und Personal mit einschließt.
+~ [Wikipedia - Marketing](https://de.wikipedia.org/wiki/Marketing)
 
 ## Der Marketingprozess
 1. Verstehen von Märkten und Kundenwünschen
@@ -151,8 +152,7 @@ Das Zusammenspiel von Unternehmens- und Marketing-Strategie
 
 ![[Marketing_Vorlesung 2.pdf#page=6]]
 
----
-
+#### Übung
 ![[Marketing_Vorlesung 2.pdf#page=9]]
 
 #### Game-Studio Beispiel
@@ -165,3 +165,55 @@ Das Zusammenspiel von Unternehmens- und Marketing-Strategie
 
 ---
 
+# Strategischer Unternehmensplan
+
+### Strategie-Audit  und SWOT-Analyse
+
+- Strategie-Audit: 
+	- steht am Beginn jeder Strategieentwicklung des Unternehmens 
+- Bestandteile: 
+	- externe Analyse: Untersuchung der makroökonomischen Umgebung 
+	- interne Analyse: Untersuchung des Unternehmens selbst; bezieht sich auf gesamte Wertschöpfungskette 
+- SWOT-Analyse: 
+	- steht für Strenghts (Stärken), Weaknesses (Schwächen), Opportunities (Chancen) und Threats (Risiken) 
+	- leitet aus den im Strategie-Audit generierten Informationen die zentralen Stärken und Schwächen des Unternehmens ab 
+	- verdichtet die Vielzahl an Informationen auf wenige erfolgskritische Faktoren
+
+![[Marketing_Vorlesung 2.pdf#page=11]]
+
+### Portfolio-Analyse
+
+- Geschäftsportfolio = Gesamtheit der Produktlinien und Geschäftsfelder eines Unternehmens 
+- Ziele einer Portfolioanalyse: 
+	- Unterstützung bei der Beurteilung und Steuerung der unternehmensspezifischen Geschäftstätigkeiten und bei der Allokation von Finanzmitteln 
+	- Anpassung der Stärken und Schwächen des Unternehmens an die Geschäftsmöglichkeiten des Umfelds 
+- Ablauf: 
+	- Identifikation der einzelnen strategischen Geschäftseinheiten (SGE) 
+	- Beurteilung der Zukunftsaussichten der SGE; z.B. mit Hilfe der Marktwachstums-/ Marktanteils-Matrix der Boston Consulting Group
+
+![[Marketing_Vorlesung 2.pdf#page=13]]
+
+Beispiel am Konzern Apple:
+![[Marketing_Vorlesung 2.pdf#page=14]]
+
+### Wachstum und Downsizing nach Ansoff
+
+![[Marketing_Vorlesung 2.pdf#page=15]]
+
+
+Zu Häagen-Dazs:
+Wachstum durch das Vordringen in einen neuen Markt, durch das Ansprechen von Erwachsenen als "Premium-Eis"
+zu Nespresso:
+Produktentwicklung durch die "Kaffee-Pods"
+zu Honda:
+Firma ist sehr gut in Herstellung von kleinen Motoren, bedeutet sie versuchen in möglichst vielen Märkten zu agieren wo Motoren verwendet werden. Von Autos, Motorrädern, Robotic,...
+
+### Die Rolle des Marketing
+- Marketing als Leitkonzept in der strategischen Planung – Fokus Kundennutzen! 
+	- Zahlreiche Überschneidungen zwischen Unternehmens- und Marketingstrategie 
+	- Marketing liefert Input für strategische Entscheidungen 
+	- Ohne Marketing-Kennzahlen gibt es keine fundierte Unternehmensstrategie! 
+- Stellenwert des Marketing innerhalb betrieblicher Funktionsbereiche: 
+	- Kundenzufriedenheit und Bedürfnisbefriedigung kann nur durch das Zusammenspiel aller Abteilungen erreicht werden
+	- Marketing als Koordinator, damit alle Abteilungen für eine möglichst perfekte Zufriedenstellung des Kunden zusammenarbeiten
+	- Marketing als „Sprachrohr“ des Kunden innerhalb des Unternehmens

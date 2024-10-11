@@ -1,5 +1,6 @@
 {
   "theme": "moonstone",
   "interfaceFontFamily": "",
-  "textFontFamily": "EB Garamond"
+  "textFontFamily": "EB Garamond",
+  "cssTheme": "Things"
 }
