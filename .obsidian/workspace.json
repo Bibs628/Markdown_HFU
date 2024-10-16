@@ -11,10 +11,26 @@
             "id": "e7a7b303c61786dc",
             "type": "leaf",
             "state": {
-              "type": "kanban",
+              "type": "markdown",
               "state": {
-                "file": "Bewerbungen/Kanban Bewerbungen.md"
-              }
+                "file": "Homepage.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Homepage"
+            }
+          },
+          {
+            "id": "74853e4d4a8ff91b",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.7.4"
+              },
+              "icon": "lucide-file",
+              "title": "Release Notes 1.7.4"
             }
           }
         ]
@@ -37,7 +53,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Dateiexplorer"
             }
           },
           {
@@ -52,7 +70,9 @@
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-search",
+              "title": "Suchen"
             }
           },
           {
@@ -60,7 +80,9 @@
             "type": "leaf",
             "state": {
               "type": "bookmarks",
-              "state": {}
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Lesezeichen"
             }
           }
         ]
@@ -91,7 +113,9 @@
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-coming-in",
+              "title": "Rückverweise für Kanban Bewerbungen"
             }
           },
           {
@@ -103,7 +127,9 @@
                 "file": "Bewerbungen/Kanban Bewerbungen.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-going-out",
+              "title": "Ausgehende Links von Kanban Bewerbungen öffnen"
             }
           },
           {
@@ -114,7 +140,9 @@
               "state": {
                 "sortOrder": "frequency",
                 "useHierarchy": true
-              }
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
             }
           },
           {
@@ -124,7 +152,9 @@
               "type": "outline",
               "state": {
                 "file": "Bewerbungen/Kanban Bewerbungen.md"
-              }
+              },
+              "icon": "lucide-list",
+              "title": "Gliederung von Kanban Bewerbungen"
             }
           },
           {
@@ -136,7 +166,9 @@
                 "sortOrder": "frequency",
                 "showSearch": false,
                 "searchQuery": ""
-              }
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
             }
           },
           {
@@ -144,7 +176,9 @@
             "type": "leaf",
             "state": {
               "type": "todo",
-              "state": {}
+              "state": {},
+              "icon": "checkmark",
+              "title": "Todo List"
             }
           }
         ],
@@ -173,10 +207,10 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
-    "Bewerbungen/Praxissemester/mindsquare AG.md",
+    "Bewerbungen/Praxissemester/Bewerbungen Prax - Megathread.md",
     "Bewerbungen/Kanban Bewerbungen.md",
     "Homepage.md",
-    "Bewerbungen/Praxissemester/Bewerbungen Prax - Megathread.md",
+    "Bewerbungen/Praxissemester/mindsquare AG.md",
     "Studium/Sem2/Sem2 Mathe und Simulation/Mathe und Simulation 2 - Megathread.md",
     "Studium/Sem2/Sem2 Mathe und Simulation/Kathesische Koordinaten.md",
     "Bewerbungen/Praxissemester/DoktorFroid.md",

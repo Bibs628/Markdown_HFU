@@ -43,6 +43,6 @@ kanban-plugin: basic
 
 %% kanban:settings
 ```
-{"kanban-plugin":"basic"}
+{"kanban-plugin":"basic","hide-tags-in-title":false,"date-colors":[{"isToday":false,"distance":1,"unit":"days","direction":"after"}],"append-archive-date":false}
 ```
 %%

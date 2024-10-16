@@ -5,7 +5,7 @@
 type: week
 navigation: true
 showAllDay: true
-hourRange: [8, 20]
+hourRange: [7, 21]
 offset: 0
 include: ["Uni HS Furtwangen", "HS Furtwangen Events MiB", "Bibs628", "Tasks"]
 timespan: 7
@@ -43,6 +43,8 @@ timespan: 7
 # Bewerbungen
 
 ## Praxissemester (3. Semester)
+
+![[Kanban Bewerbungen]]
 
 [[Bewerbungen Prax - Megathread]]
 
