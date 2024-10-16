@@ -1,0 +1,23 @@
+Offizielle Seite: https://www.reaper.fm/videos.php
+
+https://www.youtube.com/watch?v=_shjd4GBILo
+
+https://www.youtube.com/watch?v=yk3JiKUdOXU
+
+https://www.youtube.com/watch?v=XRAYqWFeYR0
+
+https://www.meinhomestudio.de/reaper/
+
+------------------------------------------------------------
+ACHTUNG-HINWEIS-PROFI-TIPP: Audio-Samplerate-Projekteinstellung in einer DAW für Computergrafik- und Videoprojekte!
+
+In einem Punkt weisen die obigen Videos leider oft einen Fehler auf. Für Audioproduktionen im Computergrafik- oder Videobereich sollte die Projektsamplerate in der DAW-Software unbedingt gleich ab Beginn auf 48kHz oder 96kHz eingestellt werden!!!!!
+
+Begründung:
+nur mit diese Audio-Samplerate ist ihr Projekt später ohne Umrechnung direkt mit den Frameraten von Videomaterial (24fps, 25fps, 30fps, etc.) synchronisierbar und schont somit die Hardware-Ressourcen des abspielenden Rechners!
+-------------------------------------------------------------
+
+Zugang zu den DM-Soundlibraries erhalten Sie über den FELIX-Kurs: https://felix.hs-furtwangen.de/url/RepositoryEntry/10256661
+PW ist derzeit: 1234
+
+Schauen Sie sich auch gleich hier im Kurs die "Abschlußaufgabe" des MT-Praktikums an, um zu verstehen, was Sie mit Reaper demnächst zu erstellen haben!

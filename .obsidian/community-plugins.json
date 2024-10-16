@@ -10,7 +10,6 @@
   "obsidian-pocket",
   "obsidian-pandoc",
   "obsidian-mind-map",
-  "obsidian-kanban",
   "handwritten-notes",
   "obsidian-chartsview-plugin",
   "cm-editor-syntax-highlight-obsidian",
@@ -21,5 +20,8 @@
   "obsidian-enhancing-export",
   "note-refactor-obsidian",
   "obsidian-style-settings",
-  "obsidian-dictionary-plugin"
+  "obsidian-dictionary-plugin",
+  "homepage",
+  "google-calendar",
+  "obsidian-kanban"
 ]
