@@ -18,6 +18,11 @@ kanban-plugin: basic
 - [ ] [[Rocketbeans]] frist 15.10.
 
 
+## im Kontakt
+
+- [ ] [[mindsquare AG]]
+
+
 ## Beworben
 
 
