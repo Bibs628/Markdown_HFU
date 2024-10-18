@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Studium/Sem2/UX-Design/Fingerübung/Fingerübung UX-Design.md",
+                "file": "Studium/Sem2/UX-Design/UX-Design Megathread.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Fingerübung UX-Design"
+              "title": "UX-Design Megathread"
             }
           },
           {
@@ -47,10 +47,10 @@
             "state": {
               "type": "pdf",
               "state": {
-                "file": "Studium/Sem2/UX-Design/02_HFU-UXD_CustomerJourney.pdf"
+                "file": "Studium/Sem2/UX-Design/Seminar/2_HFU-UXD-Uebung-1_WiSe24-25.pdf"
               },
               "icon": "lucide-file-text",
-              "title": "02_HFU-UXD_CustomerJourney"
+              "title": "2_HFU-UXD-Uebung-1_WiSe24-25"
             }
           }
         ]
@@ -225,12 +225,15 @@
       "audio-recorder:Audioaufzeichnung starten/stoppen": false
     }
   },
-  "active": "01679bbac2fdcb6f",
+  "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
-    "Studium/Sem2/UX-Design/Fingerübung",
-    "Studium/Sem2/UX-Design/UX-Design Megathread.md",
-    "Studium/Sem2/UX-Design/Fingerübung/Fingerübung UX-Design.md",
+    "Studium/Sem2/UX-Design/Seminar/2_HFU-UXD-Uebung-1_WiSe24-25.pdf",
     "Studium/Sem2/UX-Design/02_HFU-UXD_CustomerJourney.pdf",
+    "Studium/Sem2/UX-Design/UX-Design Megathread.md",
+    "Studium/Sem2/UX-Design/Seminar",
+    "Studium/Sem2/UX-Design/Fingerübung/Fingerübung UX-Design.md",
+    "Studium/Sem2/UX-Design/Fingerübung/Customer Journey.canvas",
+    "Studium/Sem2/UX-Design/Fingerübung",
     "Studium/Sem2/Medienwirtschaft/Marketing/Marketing - Megathread.md",
     "Studium/Sem2/Medienwirtschaft/MedienÖkonomie/Medienökonomie - Megathread.md",
     "Studium/Anderes/Vorträge/UnFUG Talk HomeLab gone Wrong/HomeLab gone Wrong.md",
@@ -264,9 +267,6 @@
     "Studium/Sem2/Sem2 Mathe und Simulation/Skalarprodukt.md",
     "Bewerbungen/Praxissemester/Messe Offenburg.md",
     "Bewerbungen/Praxissemester/d+b Audiotechnik.md",
-    "Bewerbungen/Praxissemester",
-    "Studium/Wichtiges Studium/Leitfaden_zum+Umgang_mit_generativer_KI.pdf",
-    "Studium/Sem2/UX-Design/Modul-UX-Design-Ablauf-WiSe24-25.pdf",
     "Pasted image 20240429181637.png",
     "ORTF-Stereo.svg",
     "opera_TSzlOei0se.png",
@@ -281,7 +281,6 @@
     "Studium/Sem1/Programmieren/Arbeit Cutter.canvas",
     "Studium/ASTA & Projekte/Film & Fernsehen/Ideensammlung_KinoReff.canvas",
     "Studium/ASTA & Projekte/ASTA_TECHNIK/Kino_Aula_Aufbauplan.canvas",
-    "MFP/Schubild Interne MFP Struktur.canvas",
-    "MFP/MFP - Verbesserungsvorschläge.canvas"
+    "MFP/Schubild Interne MFP Struktur.canvas"
   ]
 }

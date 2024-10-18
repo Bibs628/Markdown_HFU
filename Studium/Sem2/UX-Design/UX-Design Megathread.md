@@ -76,3 +76,4 @@ Persona:
 - Nutzungsverhalten / benötigte Funktionalitäten 
 - Mediennutzung / technische Ausstattung
 
+
