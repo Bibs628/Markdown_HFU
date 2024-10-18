@@ -13,24 +13,30 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Homepage.md",
+                "file": "Studium/Sem2/UX-Design/UX-Design Megathread.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Homepage"
+              "title": "UX-Design Megathread"
             }
-          },
+          }
+        ]
+      },
+      {
+        "id": "f15a424db4b7312c",
+        "type": "tabs",
+        "children": [
           {
-            "id": "74853e4d4a8ff91b",
+            "id": "8d26f5281d1014e3",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "pdf",
               "state": {
-                "currentVersion": "1.7.4"
+                "file": "Studium/Sem2/UX-Design/02_HFU-UXD_CustomerJourney.pdf"
               },
-              "icon": "lucide-file",
-              "title": "Release Notes 1.7.4"
+              "icon": "lucide-file-text",
+              "title": "02_HFU-UXD_CustomerJourney"
             }
           }
         ]
@@ -207,9 +213,30 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
-    "Bewerbungen/Praxissemester/Bewerbungen Prax - Megathread.md",
-    "Bewerbungen/Kanban Bewerbungen.md",
+    "Studium/Sem2/UX-Design/02_HFU-UXD_CustomerJourney.pdf",
+    "Studium/Sem2/UX-Design/UX-Design Megathread.md",
+    "Studium/Sem2/UX-Design/UXD-Fingeruebungen-WiSe24-25_Einfuehrung.pdf",
     "Homepage.md",
+    "Studium/Sem2/Medienwirtschaft/MedienÖkonomie/Medienökonomie - Megathread.md",
+    "Studium/Sem2/Medienwirtschaft/MedienÖkonomie/Medienokonomie_Vorlesung 3.pdf",
+    "Studium/Anderes/Vorträge/UnFUG Talk HomeLab gone Wrong/HomeLab gone Wrong.md",
+    "Studium/Anderes/Vorträge/UnFUG Talk HomeLab gone Wrong/Serverstruktur.canvas",
+    "Studium/Sem2/Medienwirtschaft/Marketing/Marketing - Megathread.md",
+    "Studium/Sem2/Medienwirtschaft/Marketing/Marketing_Vorlesung 3.pdf",
+    "Bewerbungen/Kanban Bewerbungen.md",
+    "Studium/Sem2/Medienwirtschaft/Marketing/Marketing_Vorlesung 2.pdf",
+    "Studium/Anderes/Vorträge/UnFUG Talk HomeLab gone Wrong/Mein HomeLab.png",
+    "Studium/Anderes/Vorträge/UnFUG Talk HomeLab gone Wrong/Homelab2.webp",
+    "Studium/Anderes/Vorträge/HBS Datein/SAN.md",
+    "Studium/Anderes/Vorträge/HBS Datein/NAS.md",
+    "Studium/Anderes/Vorträge/HBS Datein/HBS Media Streaming.md",
+    "Studium/Anderes/Vorträge/HBS Datein/DNS.md",
+    "Studium/Anderes/Vorträge/HBS Datein/CloudFront.md",
+    "Studium/Anderes/Vorträge/UnFUG Talk HomeLab gone Wrong/Homelab1.jpeg",
+    "Studium/Anderes/Vorträge/UnFUG Talk HomeLab gone Wrong",
+    "Studium/Sem2/Sem2 Mathe und Simulation/Lernen/Matrixmultiplikation.md",
+    "Studium/Sem2/Sem2 Mathe und Simulation/Lernen",
+    "Bewerbungen/Praxissemester/Bewerbungen Prax - Megathread.md",
     "Bewerbungen/Praxissemester/mindsquare AG.md",
     "Studium/Sem2/Sem2 Mathe und Simulation/Mathe und Simulation 2 - Megathread.md",
     "Studium/Sem2/Sem2 Mathe und Simulation/Kathesische Koordinaten.md",
@@ -222,25 +249,9 @@
     "Bewerbungen/Praxissemester/d+b Audiotechnik.md",
     "Studium/Sem1/Video- und Tontechnik/Audiotechnik/Audiotechnik.md",
     "Bewerbungen/Praxissemester/Nubert Audio.md",
-    "Bewerbungen/Praxissemester/Beyerdynamic.md",
-    "Bewerbungen/Praxissemester/Messe Freiburg.md",
-    "Bewerbungen/Praxissemester/Teufel Audio.md",
-    "Studium/To-Do Studium.md",
-    "Studium/Merkliste Studium Semester 1.md",
-    "Studium/Kanban Prüfungsvorbereitung.md",
     "Bewerbungen/Praxissemester",
     "Studium/Wichtiges Studium/Leitfaden_zum+Umgang_mit_generativer_KI.pdf",
-    "2024-10-12.md",
-    "Studium/Sem2/Computergrafik & 3D-Modelling/Computergrafik & 3D-Modelling - Megathread.md",
-    "Studium/Sem2/Grundlagen Interaktiver Systeme/Grundlagen Interaktiver Systeme - Megathread.md",
-    "Studium/Sem2/Sem1 Mathe und Simulation/Mathe und Simulation 1 - Megathread.md",
-    "Studium/Sem2/UX-Design/UX-Design Megathread.md",
     "Studium/Sem2/UX-Design/Modul-UX-Design-Ablauf-WiSe24-25.pdf",
-    "Studium/Sem2/UX-Design/01_HFU-UXD_Einfuehrung.pdf",
-    "Studium/Sem2/UX-Design",
-    "Studium/Sem2/Medienwirtschaft/MedienÖkonomie/Medienokonomie_Vorlesung 2.pdf",
-    "Studium/Sem2/Medienwirtschaft/MedienÖkonomie/Medienokonomie_Vorlesung 1.pdf",
-    "Markdown_HFU",
     "Pasted image 20240429181637.png",
     "ORTF-Stereo.svg",
     "opera_TSzlOei0se.png",
@@ -248,20 +259,14 @@
     "Obsidian_bm5iweYhxB.png",
     "ma-tab-bogenm-171x300 1.png",
     "Multicore_Stagebox.jpg",
-    "Moonstone_Island_BU4NqgxLEp.png",
-    "IMG_20240809_150445.jpg",
-    "IMG_20240809_150555.jpg",
     "Aufbau Lautsprecher Zuhause 5.1.canvas",
     "Sender - Empfänger - Modell.canvas",
     "TechnoFarmer - Automation.canvas",
-    "Medien/MFP/RDT_20230816_060639.mp4",
-    "YT",
     "Studium/Sem2/Grundlagen Interaktiver Systeme/Projektidee GIS.canvas",
     "Studium/Sem1/Programmieren/Arbeit Cutter.canvas",
     "Studium/ASTA & Projekte/Film & Fernsehen/Ideensammlung_KinoReff.canvas",
     "Studium/ASTA & Projekte/ASTA_TECHNIK/Kino_Aula_Aufbauplan.canvas",
     "MFP/Schubild Interne MFP Struktur.canvas",
-    "MFP/MFP - Verbesserungsvorschläge.canvas",
-    "MFP/MFP - Notwendiges für Konzepte.canvas"
+    "MFP/MFP - Verbesserungsvorschläge.canvas"
   ]
 }

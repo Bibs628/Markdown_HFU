@@ -1,0 +1,23 @@
+{
+	"nodes":[
+		{"id":"3f29d60935ca8c1d","type":"text","text":"GHB","x":-140,"y":-420,"width":250,"height":60},
+		{"id":"59ec3caadbae729d","type":"text","text":"WLAN Router / Switch","x":-140,"y":-260,"width":250,"height":60},
+		{"id":"b59c6922b8e88caf","type":"text","text":"1Gb Switch","x":-140,"y":-140,"width":250,"height":60},
+		{"id":"957f66499fe8a8e8","type":"text","text":"Server","x":-140,"y":100,"width":250,"height":60},
+		{"id":"8956708daa3f1ee8","type":"text","text":"PC","x":-420,"y":100,"width":250,"height":60},
+		{"id":"b986f871a5ad641a","type":"text","text":"Laptop","x":-740,"y":100,"width":250,"height":60},
+		{"id":"c356465270272e0b","type":"text","text":"Windows","x":-740,"y":230,"width":250,"height":60},
+		{"id":"b806410a24c1d9e7","type":"text","text":"Windows","x":-420,"y":230,"width":250,"height":60},
+		{"id":"df17654a3aef742c","type":"text","text":"TrueNas Scale","x":-140,"y":230,"width":250,"height":60},
+		{"id":"c52dab924cd3aa4d","type":"text","text":"Hauptnutzen: NAS\nSekundärnutzung;\n- MC-Server\n- Foto Cloud\n- AdBlock\n- Cloudserver\n- Mediastreaming (kommt noch)","x":-140,"y":329,"width":250,"height":251},
+		{"id":"2810f2b087f2680c","type":"text","text":"Nutzen: \n- Zocken\n- Produktion","x":-420,"y":329,"width":250,"height":251},
+		{"id":"8f7782774b65075b","type":"text","text":"Nutzung;\n- Uni\n- gelegentlich Zocken\n- Produktion","x":-740,"y":329,"width":250,"height":251}
+	],
+	"edges":[
+		{"id":"f64a275d3af8d4e8","fromNode":"3f29d60935ca8c1d","fromSide":"bottom","toNode":"59ec3caadbae729d","toSide":"top"},
+		{"id":"4292d395e411dc43","fromNode":"59ec3caadbae729d","fromSide":"bottom","toNode":"b59c6922b8e88caf","toSide":"top"},
+		{"id":"5462dd7517d7973f","fromNode":"8956708daa3f1ee8","fromSide":"top","toNode":"b59c6922b8e88caf","toSide":"bottom","fromEnd":"arrow"},
+		{"id":"369efb9fb1759609","fromNode":"957f66499fe8a8e8","fromSide":"top","toNode":"b59c6922b8e88caf","toSide":"bottom","fromEnd":"arrow"},
+		{"id":"1eed8a17c21ec8df","fromNode":"59ec3caadbae729d","fromSide":"left","toNode":"b986f871a5ad641a","toSide":"top"}
+	]
+}

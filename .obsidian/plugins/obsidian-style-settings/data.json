@@ -6,5 +6,6 @@
   "things-style@@strong-color": "#BD1555",
   "things-style@@em-color": "#FF82B2",
   "things-style@@active-line": true,
-  "things-style@@fancy-highlight": true
+  "things-style@@fancy-highlight": true,
+  "things-style@@quote-color": "#52BF3E"
 }

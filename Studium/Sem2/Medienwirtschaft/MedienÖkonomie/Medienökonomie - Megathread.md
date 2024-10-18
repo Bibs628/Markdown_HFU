@@ -139,3 +139,66 @@ Durch das Virale Meme wurden viele weitere Arten von Kontent kreiert und es ist 
 - Auch für die Medienbranche kann man eine Wertschöpfungskette konzeptionieren 
 - Wir haben diese Wertschöpfungskette der Medien auf verschiedene Medienprodukte und –phänomene angewendet und Sonderfälle besprochen 
 - Eine Wertschöpfungskette ist ein sinnvolles Analyse-Tool, ihre chronologische Darstellung kann aber die Arbeitsrealität der Medienbranche, gerade der digitalen Medien nicht widerspiegeln
+
+
+
+# Vorlesung 3 - Einordnung der Medienökonomie & Befriffsabgrenzung
+
+### Agenda und Lernziele
+- Aufgaben der Wissenschaft allgemein
+- Eindordnung der Medien- und Kommunikationswirtschaftslehre
+- Definition der Medienwirtschaftslehre
+- Teilbereche der Medien- und Kommunikationswirtshaft
+- Abgrenzung Medienmanagement von Medienkopetenzen und E-Buisness
+
+### Aufgaben der Wissenschaft im Wirtschaftsbereich
+-  Begriffsbildung 
+- Beschreibung (Deskription) 
+- Analyse und Erklärung 
+- Prognosen 
+- Handlungsempfehlung
+
+
+## Einordnung der Medien- und Kommunikationswirtschaftslehre in die Wissenschaft
+
+![[Medienokonomie_Vorlesung 3.pdf#page=4]]
+
+![[Medienokonomie_Vorlesung 3.pdf#page=8]]
+
+
+## Medienmanagements
+
+
+### Teilbereiche der Medien- und Kommunikationslehre
+
+| Medien-VWL                                                                                                                                                                                                                    | Medien-BWL                                                                                                                                                                                                                                                                                                                                     | Medienmanagement                                                                                                                                                                                        |
+| ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Untersucht Phänomene und<br>Prozesse auf höher<br>aggregierter wirtschaftlicher<br>Ebene der Branche<br>Gegenstände:<br>Märkte<br>Regulierung<br>Wettbewerbsseffizienz<br>Erlösformen<br>Statistik<br>Beschäftigung im Sektor | Wirtschaftslehre der Betriebe<br>im Medienbereich<br>Lehre von der Führung von<br>MuK-Unternehmen<br>Rahmenbedingungen und<br>Instrumente der Unternehmen<br>und ihrer Entscheidungen<br>Erkenntnisziele vor allem:<br>- Begriffsbildung<br>- Deskription<br>- Analyse, Erklärung von Wirkzusammensetztung Verallgemeinerungsfähige Ergebnisse | Lehre für die Führung, für das<br>Management in<br>Medienbetrieben<br>Primäre Ziele:<br>Handlungsanleitungen und<br>Gestaltungsvorschläge für die<br>Praxis, für Entscheidungen in<br>Medienunternehmen |
+### Abgrenzung des Medienmanagements
+
+- Medienmanagement ≠ Medienkompetenz
+- Medienkompetenz umfasst 
+	- Informationstechnische Kompetenz
+	- Selektions- und Beschaffungskompetenz
+	- Beurteilungskompetenz 
+	- Code-Kompetenz
+
+
+
+- Medienmanagement ≠ E-Business, Digital Business o. E-Commerce 
+- Definitionen E-Business bzw. Digital Business
+	- „…how businesses apply digital technology and media to improve the competetiveness of their organisation through optimising internal processes with online and traditional channels to market and supply.“ (Chaffey et al., 2019, S. 15) 
+	- „… Anbahnung sowie die teilweise respektive vollständige Unterstützung, Abwicklung und Aufrechterhaltung von Leistungsaustauschprozessen zwischen ökonomischen Partnern mittels Informationstechnologie (elektronischer Netze)…“ (Wirtz, 2020, S. 23). 
+- Definition E-Commerce 
+	- „…beinhaltet die elektronische Unterstützung von Aktivitäten, die in direktem Zusammenhang mit dem Kauf und Verkauf von Gütern und Dienstleistungen via elektronscher Netze stehen.“ (Wirtz, 2020, S. 32).
+
+
+
+**Zusammenfassung**:
+- Wir haben die Aufgaben der Wissenschaft im Wirtschaftsbereich besprochen 
+- Wir haben die Medien- und Kommunikationswirtschaftslehre in die Wissenschaften eingeordnet und definiert 
+- Wir haben die Teilbereiche der Medien- und Kommunikationswirtschaftslehre besprochen 
+	- Medien-VWL 
+	- Medien-BWL 
+	- Medienmanagement 
+- Wir haben insbesondere das Thema Medienmanagement diskutiert und den Begriff von Medienkompetenz, E- bzw. Digital Business und E-Commerce abgegrenzt

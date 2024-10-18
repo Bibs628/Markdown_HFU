@@ -41,3 +41,20 @@ Im Kern besteht eine gute User Experience aus:
 UI = User Interface = Benutzeroberfläche
 UX = User Experience = Nutzungserlebnis
 
+
+## Customer Journey
+
+### Begriffsklärung
+#### Customer journey
+##### Im Marketing
+Bezeichnet die einzelnen Berührungspunkte (Touchpoints), die ein Kunde durchläuft, bevor er sich für den Kauf eines Produktes entscheidet.
+##### Im UX-Design
+Bezeichnet die einzelnen Zyklen, die ein Nutzer vor, während und nach der Interaktion mit einem Objekt zum Zweck der Bedürfniserfüllung durchläuft.
+
+#### Use Case / User Story / User Scenario
+
+Szenarien / Geschichten, die schildern, wie eine Persona mit einem Produkt interagiert und dadurch ihre Ziele erreicht und ihre Bedürfnisse erfüllt.
+
+#### Touchpoint
+Bezeichnet die Schnittstelle / den Kontaktpunkt eines Unternehmens, einer Marke oder eines Wirtschaftsguts (z. B. Produkt, Dienstleistung) zu möglichen und bestehenden Zielpersonen (Persona).
+*Hier entsteht die User Experience*
