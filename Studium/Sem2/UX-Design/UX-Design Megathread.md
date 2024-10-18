@@ -58,3 +58,21 @@ Szenarien / Geschichten, die schildern, wie eine Persona mit einem Produkt inter
 #### Touchpoint
 Bezeichnet die Schnittstelle / den Kontaktpunkt eines Unternehmens, einer Marke oder eines Wirtschaftsguts (z. B. Produkt, Dienstleistung) zu möglichen und bestehenden Zielpersonen (Persona).
 *Hier entsteht die User Experience*
+
+#### Persona
+Persona sind abstrahierte, modellhafte Benutzerfiguren, die stellvertretend für die realen Benutzer stehen.
+
+HFU Digitale Medien // User Experience Design // Carolin Franz Persona sind abstrahierte, modellhafte Benutzerfiguren, die stellvertretend für die realen Benutzer stehen. Diese sind fiktive Repräsentanten, die typisch für die Zielgruppen sind und einen Großteil ihrer Anforderungen, Bedürfnisse und Ziele abdecken
+
+### Persona
+
+Ziel:
+- Alle Projektbeteiligten bekommen eine konkrete Vorstellung, ein Bild des/der Endanwender(s)
+- Dieses Bild kann zu jeder Projektphase zur Überprüfung des erreichten Zwischenstandes herangezogen werden
+Persona:
+- Name, Alter, Geschlecht, persönlicher Hintergrund 
+- Beruf / Tätigkeit 
+- Motivation und Bedürfnisse 
+- Nutzungsverhalten / benötigte Funktionalitäten 
+- Mediennutzung / technische Ausstattung
+
