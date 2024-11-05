@@ -3,8 +3,8 @@
 Keine Klausur
 
 Abgabe in der [GoogleDrive](https://drive.google.com/drive/folders/1IH1E7pZQ5CHH5v6aKgN-w1LOMWAXqeDN)
-
-
+[[Ebenenmodell nach J.J. Garret]]
+[[UX-Design Megathread]]
 ### Beispiele:
 ![[01_HFU-UXD_Einfuehrung.pdf#page=9]]
 ![[01_HFU-UXD_Einfuehrung.pdf#page=10]]
@@ -75,5 +75,60 @@ Persona:
 - Motivation und Bedürfnisse 
 - Nutzungsverhalten / benötigte Funktionalitäten 
 - Mediennutzung / technische Ausstattung
+
+
+# Nutzerkontext
+
+![[03_HFU-UXD_Nutzungskontext.pdf#page=10]]
+
+## Nutzerkontextanalyse
+
+- Wer ist der **Nutzer**?
+- Welche **Ziele** hat der Nutzer
+- In welcher **Umgebung** (physisch und psychisch) interagiert der Nutzer
+- Mit welchem **Objekt** interagiert der Nutzer
+
+Diese Punkte stehen alle in Wechselwirkung miteinander.
+
+
+
+## Beispiele
+
+![[03_HFU-UXD_Nutzungskontext.pdf#page=15]]
+
+- Wer ist der Nutzer?
+	- Alle technisch minimal Affinen Personen
+- Welche ziele?
+	- Essen bestellen
+	- wenig Interaktion mit Personal
+- Welche Umgebung?
+	- Im Laden
+	- mit Hungergefühl
+- Welches Objekt ?
+	- Touchscreen am PC
+
+![[03_HFU-UXD_Nutzungskontext.pdf#page=18]]
+
+- Wer?
+	- Fahrer, technisch Interessiert
+- Ziele
+	- Ankunft
+	- leichte Interaktion
+	- Übersichtlichkeit
+- Umgebung
+	- Auto
+	- kann Stressig sein
+- Objekt interaktion
+	- Sprache?
+	- Interface (evtl Touch)
+	- App?
+
+
+### Kernaussagen
+
+Um eine gute **User Experience** zu schaffen..
+- sollte die Anwendung auf den Kontext, in dem sie genutzt wird, angepasst sein.
+- sollte die Anwendung den Nutzer bestmöglich kennen und smart agieren.
+
 
 

@@ -1,3 +1,5 @@
+#Studium #Praxissemester #Semester3 
+
 https://www.nubert.de/karriere/
 evtl technischer Redakteur
 

@@ -1,0 +1,33 @@
+{
+	"nodes":[
+		{"id":"413cb5b73c950463","type":"group","x":-343,"y":-481,"width":1373,"height":781,"color":"6","label":"VST"},
+		{"id":"dc49c18ccf411a75","type":"group","x":-323,"y":80,"width":621,"height":200,"color":"3","label":"Fachschaft CSA"},
+		{"id":"2372a88366926066","type":"group","x":400,"y":80,"width":610,"height":200,"color":"4","label":"Fachschaft BM"},
+		{"id":"7d940123891cab3a","type":"text","text":"VST","x":-111,"y":-461,"width":250,"height":60,"color":"6"},
+		{"id":"614367ba03881139","type":"text","text":"Fachschaft BM (IV)","x":580,"y":-65,"width":250,"height":60},
+		{"id":"2cfe847b6e849a05","type":"text","text":"Fachschaft CSA (I)","x":-140,"y":-65,"width":250,"height":60},
+		{"id":"b0ec0fd2d3c8ac0e","type":"text","text":"Fachschaften","x":220,"y":-227,"width":250,"height":60},
+		{"id":"32d0ea3c57883f6f","type":"text","text":"StuRa","x":200,"y":-461,"width":250,"height":60},
+		{"id":"66c55b0a9c18285d","type":"text","text":"AStA","x":520,"y":-461,"width":250,"height":60},
+		{"id":"a9d26a8047e827c1","type":"text","text":"Capus-Fachschaft FuWa","x":228,"y":210,"width":50,"height":50},
+		{"id":"6be07dbab3ab1932","type":"text","text":"\"Fachschaftsrat\"","x":28,"y":100,"width":250,"height":60},
+		{"id":"f8dfb065d6b5d125","type":"text","text":"Campus-Fachschaft Schwen","x":-300,"y":200,"width":250,"height":60},
+		{"id":"dc5b8dadef904406","type":"text","text":"Fakultätsrat BM (FAR) 12 Studis","x":400,"y":420,"width":305,"height":60,"color":"1"},
+		{"id":"0996b43f1c7c96ae","type":"text","text":"Fakultätsrat CSA (FAR) 12 Studis","x":28,"y":420,"width":305,"height":60,"color":"1"},
+		{"id":"e20861215d088fbc","type":"text","text":"\"Fachschaftsrat\"","x":420,"y":100,"width":250,"height":60,"color":"4"},
+		{"id":"dac1c79760762adb","type":"text","text":"Capus-Fachschaft Schwen","x":420,"y":200,"width":250,"height":60},
+		{"id":"ab9a3443cbeb94c2","type":"text","text":"Campus-Fachschaft FuWa","x":740,"y":200,"width":250,"height":60}
+	],
+	"edges":[
+		{"id":"2b672344e9c3f42d","fromNode":"e20861215d088fbc","fromSide":"bottom","toNode":"dac1c79760762adb","toSide":"top"},
+		{"id":"9e452d7ec6a650f0","fromNode":"e20861215d088fbc","fromSide":"right","toNode":"ab9a3443cbeb94c2","toSide":"top"},
+		{"id":"e2afc424af1ac679","fromNode":"614367ba03881139","fromSide":"bottom","toNode":"2372a88366926066","toSide":"top"},
+		{"id":"9c995df5ec9f3051","fromNode":"b0ec0fd2d3c8ac0e","fromSide":"right","toNode":"614367ba03881139","toSide":"top"},
+		{"id":"a29c6fb9fe2ef34b","fromNode":"6be07dbab3ab1932","fromSide":"bottom","toNode":"a9d26a8047e827c1","toSide":"top"},
+		{"id":"cb37c7fe19b0a11d","fromNode":"6be07dbab3ab1932","fromSide":"left","toNode":"f8dfb065d6b5d125","toSide":"top"},
+		{"id":"57486ece73747d73","fromNode":"2cfe847b6e849a05","fromSide":"bottom","toNode":"dc49c18ccf411a75","toSide":"top"},
+		{"id":"b360de496f8e20dd","fromNode":"b0ec0fd2d3c8ac0e","fromSide":"left","toNode":"2cfe847b6e849a05","toSide":"top"},
+		{"id":"7e838c4fa3b62c79","fromNode":"0996b43f1c7c96ae","fromSide":"top","toNode":"6be07dbab3ab1932","toSide":"right","color":"1"},
+		{"id":"3f9797a6ee37f9ca","fromNode":"dc5b8dadef904406","fromSide":"top","toNode":"e20861215d088fbc","toSide":"left","color":"1"}
+	]
+}

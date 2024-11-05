@@ -1,3 +1,5 @@
+***Inhalte auf der nächsten Seite***
+
 #UnFug #Vortrag 
 
 ---
@@ -16,10 +18,11 @@ Ein Homelab ist irgend ein Rechner bei sich Zuhause wo halt irgend welche Softwa
 ---
 
 ![[Homelab1.jpeg]]
-https://www.reddit.com/r/homelab/comments/1fph20j/when_its_officially_way_too_much_homelab_7tb_ram/#lightbox
+[Reddit Bild](https://www.reddit.com/r/homelab/comments/1fph20j/when_its_officially_way_too_much_homelab_7tb_ram/#lightbox)
 ---
+
 ![[Homelab2.webp]]
-https://www.reddit.com/r/homelab/comments/1g5lmi6/how_stupid_is_this_atrocity_also_is_there_any/#lightbox
+[Bild Reddit](https://www.reddit.com/r/homelab/comments/1g5lmi6/how_stupid_is_this_atrocity_also_is_there_any/#lightbox)
 ---
 Oder halt in meinem Fall
 

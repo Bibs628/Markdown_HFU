@@ -1,3 +1,5 @@
+#Studium #Praxissemester #Semester3 
+
 https://messe.freiburg.de/
 
 ### Azubi zur Fachkraft für Veranstaltungstechnik

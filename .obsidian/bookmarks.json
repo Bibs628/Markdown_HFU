@@ -1,0 +1,21 @@
+{
+  "items": [
+    {
+      "type": "group",
+      "ctime": 1730112198850,
+      "items": [
+        {
+          "type": "file",
+          "ctime": 1730112189112,
+          "path": "Studium/Anderes/Kanban Studium.md"
+        },
+        {
+          "type": "file",
+          "ctime": 1730112189112,
+          "path": "Bewerbungen/Kanban Bewerbungen.md"
+        }
+      ],
+      "title": "Kanbans"
+    }
+  ]
+}

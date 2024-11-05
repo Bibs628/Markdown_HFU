@@ -1,0 +1,1 @@
+ ([Dx̂, α], [Dŷ, β ], [Dẑ, γ ]): Jede dieser Matrizen repräsentiert eine Drehung um die jeweilige Achse mit dem entsprechenden Winkel.

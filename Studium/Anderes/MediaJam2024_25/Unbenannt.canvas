@@ -1,0 +1,22 @@
+{
+	"nodes":[
+		{"id":"063e51d7830a1031","x":-167,"y":-102,"width":250,"height":60,"type":"text","text":"its fantastic"},
+		{"id":"950069dd30a9f9c3","x":-143,"y":-305,"width":250,"height":60,"type":"text","text":"sinalco ist neidisch\n"},
+		{"id":"eb2a28a6522cb0bc","x":-143,"y":-410,"width":250,"height":60,"type":"text","text":"africola jagt ner fanta hinterhe\n"},
+		{"id":"515c114db3056cea","x":-447,"y":-410,"width":250,"height":60,"type":"text","text":"fritz kola ist zu cool dafür"},
+		{"id":"9e6268ec8f225f8b","x":-447,"y":-305,"width":250,"height":60,"type":"text","text":"ein prickelndes Abenteuer"},
+		{"id":"18cdae4911aff94f","x":243,"y":-427,"width":250,"height":60,"type":"text","text":"vanta"},
+		{"id":"d3b539150ee1bdf7","x":243,"y":-305,"width":250,"height":60,"type":"text","text":"Rizz-Cola"},
+		{"id":"24215c9ffdbb1075","x":243,"y":-245,"width":250,"height":60,"type":"text","text":"Sina el co"},
+		{"id":"5dd60ce809ec01a6","x":243,"y":-367,"width":250,"height":62,"type":"text","text":"Assi-Cola"},
+		{"id":"09c326f162c88585","x":243,"y":-185,"width":250,"height":60,"type":"text","text":"Schpezi"},
+		{"id":"e04133ec6f410e74","x":243,"y":-125,"width":250,"height":60,"type":"text","text":"Popsie"},
+		{"id":"57d3455f40eead47","x":243,"y":-65,"width":250,"height":60,"type":"text","text":"Orandiva"},
+		{"id":"7df85d951734acca","x":-7,"y":97,"width":250,"height":60,"type":"text","text":"Dr- Poper"},
+		{"id":"cbfe46a4c5241d73","x":243,"y":-5,"width":250,"height":60,"type":"text","text":"Heiniken"},
+		{"id":"ae27a2b793b690fd","x":243,"y":55,"width":250,"height":60,"type":"text","text":"Almmudler?"}
+	],
+	"edges":[
+		{"id":"3105cf4da1b03a70","fromNode":"7df85d951734acca","fromSide":"top","toNode":"e04133ec6f410e74","toSide":"left"}
+	]
+}

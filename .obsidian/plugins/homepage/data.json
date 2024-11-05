@@ -2,8 +2,8 @@
   "version": 4,
   "homepages": {
     "Main Homepage": {
-      "value": "Homepage",
-      "kind": "File",
+      "value": "Standard Studium",
+      "kind": "Workspace",
       "openOnStartup": true,
       "openMode": "Replace all open notes",
       "manualOpenMode": "Keep open notes",
