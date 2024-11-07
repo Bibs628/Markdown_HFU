@@ -4,97 +4,58 @@
     "type": "split",
     "children": [
       {
-        "id": "004f9f8ec7153976",
-        "type": "split",
+        "id": "cde0d1f61053618e",
+        "type": "tabs",
         "children": [
           {
-            "id": "cde0d1f61053618e",
-            "type": "tabs",
-            "dimension": 28.819444444444443,
-            "children": [
-              {
-                "id": "58d0131ed62e76bb",
-                "type": "leaf",
-                "pinned": true,
-                "state": {
-                  "type": "kanban",
-                  "state": {
-                    "file": "Studium/Anderes/Kanban Studium.md"
-                  },
-                  "pinned": true,
-                  "icon": "lucide-trello",
-                  "title": "Kanban Studium"
-                }
+            "id": "58d0131ed62e76bb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Studium/Anderes/Kanban Studium.md",
+                "mode": "source",
+                "source": true
               },
-              {
-                "id": "219f2cbad49ca0de",
-                "type": "leaf",
-                "pinned": true,
-                "state": {
-                  "type": "kanban",
-                  "state": {
-                    "file": "Bewerbungen/Kanban Bewerbungen.md"
-                  },
-                  "pinned": true,
-                  "icon": "lucide-trello",
-                  "title": "Kanban Bewerbungen"
-                }
-              }
-            ],
-            "currentTab": 1
+              "icon": "lucide-file",
+              "title": "Kanban Studium"
+            },
+            "group": "fd259c986a63faf2"
           },
           {
-            "id": "5e02b68998aa8a40",
-            "type": "split",
-            "dimension": 71.18055555555556,
-            "children": [
-              {
-                "id": "4509724f8bf84da7",
-                "type": "tabs",
-                "children": [
-                  {
-                    "id": "4e0e0a586fdfc53a",
-                    "type": "leaf",
-                    "pinned": true,
-                    "state": {
-                      "type": "markdown",
-                      "state": {
-                        "file": "Homepage.md",
-                        "mode": "preview",
-                        "source": false
-                      },
-                      "pinned": true,
-                      "icon": "lucide-file",
-                      "title": "Homepage"
-                    }
-                  }
-                ]
+            "id": "219f2cbad49ca0de",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "kanban",
+              "state": {
+                "file": "Bewerbungen/Kanban Bewerbungen.md"
               },
-              {
-                "id": "02b01d47a18c607d",
-                "type": "tabs",
-                "children": [
-                  {
-                    "id": "c8b2f9c626dfe208",
-                    "type": "leaf",
-                    "state": {
-                      "type": "markdown",
-                      "state": {
-                        "file": "Studium/Sem2/Programmieren_Eisenbiegler/Lichtschwert Java.md",
-                        "mode": "source",
-                        "source": false
-                      },
-                      "icon": "lucide-file",
-                      "title": "Lichtschwert Java"
-                    }
-                  }
-                ]
-              }
-            ],
-            "direction": "vertical"
+              "pinned": true,
+              "icon": "lucide-trello",
+              "title": "Kanban Bewerbungen"
+            }
           }
-        ],
-        "direction": "horizontal"
+        ]
+      },
+      {
+        "id": "3a4a51861aad89bc",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "449754af4c542e3d",
+            "type": "leaf",
+            "state": {
+              "type": "kanban",
+              "state": {
+                "file": "Studium/Anderes/Kanban Studium.md"
+              },
+              "icon": "lucide-trello",
+              "title": "Kanban Studium"
+            },
+            "group": "fd259c986a63faf2"
+          }
+        ]
       }
     ],
     "direction": "vertical"
@@ -277,19 +238,33 @@
       "workspaces:Workspace-Layouts verwalten": false
     }
   },
-  "active": "c8b2f9c626dfe208",
+  "active": "58d0131ed62e76bb",
   "lastOpenFiles": [
+    "Studium/Sem1/Video- und Tontechnik/Videotechnik/PDFs/Folien_Video_Sem1.pdf",
+    "Code/Markdown.md",
+    "Studium/Sem2/UX-Design/UX-Design Megathread.md",
+    "Studium/Sem1/Video- und Tontechnik/Videotechnik/Videotechnik.md",
+    "Homepage.md",
+    "Studium/Sem1/Programmieren/PDFs/PROG+Zusatzliche+Aufgaben.pdf",
+    "Studium/Sem1/Programmieren/PDFs/PROG+Ubungsaufgaben+Rekursion.pdf",
+    "Studium/Sem1/Programmieren/PDFs/PROG+Ubungsaufgaben+Imperative+Programmierung+4.pdf",
+    "Studium/Sem1/Programmieren/PDFs/PROG+Ubungsaufgaben+Imperative+Programmierung+3.pdf",
+    "Studium/Sem1/Programmieren/PDFs/PROG+Ubungsaufgaben+Imperative+Programmierung+2.pdf",
+    "Studium/Sem1/Programmieren/PDFs/PROG+Ubungsaufgaben+Einfuhrung.pdf",
+    "Studium/Sem1/Programmieren/PDFs/PROG+Ubungsaufgaben+Bildverarbeitung.pdf",
+    "Studium/Sem1/Programmieren/PDFs/Folien_Prog_Sem1.pdf",
+    "Studium/Anderes/Felix-Kurs/CSA Struktur.canvas",
+    "Studium/Anderes/Felix-Kurs/CSA Struktur.png",
+    "Studium/Anderes/Felix-Kurs",
+    "Studium/Sem2/Programmieren_Eisenbiegler/Lichtschwert Java.md",
     "Studium/Sem2/Sem2 Mathe und Simulation/Lernen/Erklärungen/Eulerweinkel.md",
     "Bewerbungen/Kanban Bewerbungen.md",
     "Studium/Anderes/Kanban Studium.md",
     "Studium/Merkliste Studium Semester 1.md",
     "Studium/To-Do Studium.md",
-    "Homepage.md",
     "Studium/ASTA & Projekte/Fachschaft/Aufbau neue Fachschaften.canvas",
     "Studium/ASTA & Projekte/ASTA_RAT/Sport und Freizeit Ref.md",
-    "Studium/ASTA & Projekte/ASTA_RAT/Aufgabenbeschreibung - Referent für Sport und Freizeit.pdf",
     "Studium/Anderes/MediaJam2024_25/Unbenannt.canvas",
-    "Studium/Anderes/MediaJam2024_25",
     "Hr Hottong.md",
     "Bewerbungen/Praxissemester/Lisa Mindsquare AG.md",
     "Studium/Sem2/Sem2 Mathe und Simulation/Lernen/Erklärungen/Kugelkoordinaten.md",
@@ -298,15 +273,7 @@
     "ma-tab-bogenm-171x300 1.png",
     "opera_TSzlOei0se.png",
     "Studium/Sem2/Sem2 Mathe und Simulation/Lernen/Erklärungen/Drehmatrizen.md",
-    "Studium/Sem2/Sem2 Mathe und Simulation/Lernen/Erklärungen",
     "Studium/Sem2/Sem2 Mathe und Simulation/Mathe und Simulation 2 - Megathread.md",
-    "Studium/Sem2/Sem2 Mathe und Simulation/PDFs/Arbeitsblatt-1_Drehungen_im_Raum-1-1.pdf",
-    "Studium/Sem2/Sem2 Mathe und Simulation/PDFs/KugelK_Drehmatrizen_19Marz-1.pdf",
-    "Studium/Sem2/Sem2 Mathe und Simulation/PDFs/Rel_ModArithmetik_RSA.pdf",
-    "Studium/Sem2/Sem2 Mathe und Simulation/PDFs/komplZ_FouriesSomSem24-1.pdf",
-    "Studium/Sem2/Sem2 Mathe und Simulation/PDFs/Mathematik_und_Simulation_Kapitel-5_VL.pdf",
-    "Studium/Sem2/Sem2 Mathe und Simulation/PDFs/Mathematik_und_Simulation_Kapitel-3.pdf",
-    "Studium/Sem2/Sem2 Mathe und Simulation/PDFs/Mathematik_und_Simulation_Kapitel-2.pdf",
     "Bewerbungen/Praxissemester/mindsquare AG.md",
     "Studium/Sem2/Medienwirtschaft/Marketing/Marketing - Megathread.md",
     "Studium/Sem2/Medienwirtschaft/MedienÖkonomie/Medienökonomie - Megathread.md",
@@ -315,25 +282,18 @@
     "Studium/Sem2/Sem2 Mathe und Simulation/Lernen/Matrixmultiplikation.md",
     "Studium/Sem1/BWL/BWL (grundlagen).md",
     "Studium/Sem1/BWL/Allgemeine Betriebswirtschaft.md",
-    "Studium/Sem2/UX-Design/UX-Design Megathread.md",
-    "Studium/Sem2/UX-Design/Ebenenmodell nach J.J. Garret.md",
-    "SmidtAudio.md",
-    "crystalsound.md",
-    "Neumann&Müller.md",
     "Studium/Anderes/Vorträge/UnFUG Talk HomeLab gone Wrong/Mein HomeLab.png",
     "export/HomeLab gone Wrong/Studium/Anderes/Vorträge/UnFUG Talk HomeLab gone Wrong/Mein HomeLab.png",
     "export/HomeLab gone Wrong/Studium/Anderes/Vorträge/UnFUG Talk HomeLab gone Wrong/Homelab2.webp",
     "export/HomeLab gone Wrong/Studium/Anderes/Vorträge/UnFUG Talk HomeLab gone Wrong/Homelab1.jpeg",
     "export/HomeLab gone Wrong/plugin/chalkboard/img/sponge.png",
     "export/HomeLab gone Wrong/plugin/chalkboard/img/whiteboard.png",
-    "export/HomeLab gone Wrong/plugin/chalkboard/img/chalk-yellow.png",
     "Studium/Anderes/Vorträge/UnFUG Talk HomeLab gone Wrong/Serverstruktur.canvas",
     "Studium/Sem2/UX-Design/Fingerübung/Customer Journey.canvas",
     "Aufbau Lautsprecher Zuhause 5.1.canvas",
     "Sender - Empfänger - Modell.canvas",
     "TechnoFarmer - Automation.canvas",
     "Studium/Sem2/Grundlagen Interaktiver Systeme/Projektidee GIS.canvas",
-    "Studium/Sem1/Programmieren/Arbeit Cutter.canvas",
-    "Studium/ASTA & Projekte/Film & Fernsehen/Ideensammlung_KinoReff.canvas"
+    "Studium/Sem1/Programmieren/Arbeit Cutter.canvas"
   ]
 }

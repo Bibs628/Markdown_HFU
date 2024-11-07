@@ -117,7 +117,7 @@ Technik:
 
 ---
 
-# ![[Licht-Physik & Licht-Definition]]
+# Licht-Physik & Licht-Definition]]
 
 ---
 ## ![[Sichtbares Licht]]

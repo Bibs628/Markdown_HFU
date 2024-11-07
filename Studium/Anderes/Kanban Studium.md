@@ -6,7 +6,7 @@ kanban-plugin: basic
 
 ## Projekte / Semestersprecher
 
-- [ ] Präsentation für Projektauswahl Ende dieses Beginn nächstes Semester
+- [ ] Präsentation für <mark style="background: #ADCCFFA6;">Projektauswahl Ende dieses Beginn nächstes Semester</mark>
 - [ ] Nachfragen von Prüfungsterminen<br>-> sollten bekannt sein
 
 
