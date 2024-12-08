@@ -11,6 +11,26 @@
       "id": "pqVriHzjiuFH_NxUQUT3Y",
       "name": "Main Layer",
       "value": "#ffffff"
+    },
+    {
+      "id": "5b5KQAvYaryA3cCgjCG_c",
+      "name": "Kanban",
+      "value": "#e390ee"
+    },
+    {
+      "id": "gOJs_D0_VUry_u58zUxXt",
+      "name": "Important",
+      "value": "#ff9500"
+    },
+    {
+      "id": "rywgQRq6VYWRB46wJt-OL",
+      "name": "Megathread",
+      "value": "#9de89c"
+    },
+    {
+      "id": "v7Rcjk7zoWvX_dOCAOE5l",
+      "name": "aktuell",
+      "value": "#62c7f9"
     }
   ],
   "fileColors": [
@@ -19,8 +39,68 @@
       "color": "pqVriHzjiuFH_NxUQUT3Y"
     },
     {
-      "path": "Studium/Wichtiges Studium",
-      "color": "pqVriHzjiuFH_NxUQUT3Y"
+      "path": "Studium",
+      "color": "v7Rcjk7zoWvX_dOCAOE5l"
+    },
+    {
+      "path": "Studium/Sem2",
+      "color": "v7Rcjk7zoWvX_dOCAOE5l"
+    },
+    {
+      "path": "Studium/Anderes/Kanban Studium.md",
+      "color": "5b5KQAvYaryA3cCgjCG_c"
+    },
+    {
+      "path": "Studium/VSt & weiters/Lagepläne/HFU_Anfahrtsplan_Furtwangen_DE_1_2023.pdf",
+      "color": "gOJs_D0_VUry_u58zUxXt"
+    },
+    {
+      "path": "Studium/Wichtiges Studium/MHB_DM_MIB_14-16_2024-03-01_ab+16-17+WiSe.pdf",
+      "color": "gOJs_D0_VUry_u58zUxXt"
+    },
+    {
+      "path": "Studium/Wichtiges Studium/Modulhandbuch Medieninfofmatik Hochschule Furtwangen.pdf",
+      "color": "gOJs_D0_VUry_u58zUxXt"
+    },
+    {
+      "path": "Studium/Wichtiges Studium/Leitfaden_zum+Umgang_mit_generativer_KI.pdf",
+      "color": "gOJs_D0_VUry_u58zUxXt"
+    },
+    {
+      "path": "Studium/VSt & weiters/Satzungen & Gesetzte",
+      "color": "gOJs_D0_VUry_u58zUxXt"
+    },
+    {
+      "path": "Studium/Sem2/Computergrafik & 3D-Modelling/Computergrafik & 3D-Modelling - Megathread.md",
+      "color": "rywgQRq6VYWRB46wJt-OL"
+    },
+    {
+      "path": "Studium/Sem2/Grundlagen Interaktiver Systeme/Grundlagen Interaktiver Systeme - Megathread.md",
+      "color": "rywgQRq6VYWRB46wJt-OL"
+    },
+    {
+      "path": "Studium/Sem2/Medienwirtschaft/MedienÖkonomie/Medienökonomie - Megathread.md",
+      "color": "rywgQRq6VYWRB46wJt-OL"
+    },
+    {
+      "path": "Studium/Sem2/Medienwirtschaft/Marketing/Marketing - Megathread.md",
+      "color": "rywgQRq6VYWRB46wJt-OL"
+    },
+    {
+      "path": "Studium/Sem2/Programmieren_Eisenbiegler/Programmieren - Megathread.md",
+      "color": "rywgQRq6VYWRB46wJt-OL"
+    },
+    {
+      "path": "Studium/Sem2/Sem1 Mathe und Simulation/Mathe und Simulation 1 - Megathread.md",
+      "color": "rywgQRq6VYWRB46wJt-OL"
+    },
+    {
+      "path": "Studium/Sem2/Sem2 Mathe und Simulation/Mathe und Simulation 2 - Megathread.md",
+      "color": "rywgQRq6VYWRB46wJt-OL"
+    },
+    {
+      "path": "Studium/Sem2/UX-Design/UX-Design Megathread.md",
+      "color": "rywgQRq6VYWRB46wJt-OL"
     }
   ]
 }

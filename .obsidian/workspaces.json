@@ -1,6 +1,6 @@
 {
   "workspaces": {
-    "Standard Studium": {
+    "Standart_Studium": {
       "main": {
         "id": "5324373015726ba8",
         "type": "split",
@@ -55,14 +55,14 @@
                     "type": "tabs",
                     "children": [
                       {
-                        "id": "4e0e0a586fdfc53a",
+                        "id": "70c7986e9225152f",
                         "type": "leaf",
                         "pinned": true,
                         "state": {
                           "type": "markdown",
                           "state": {
-                            "file": "Homepage.md",
-                            "mode": "preview",
+                            "file": "Studium/Homepage.md",
+                            "mode": "source",
                             "source": false
                           },
                           "pinned": true,
@@ -77,7 +77,7 @@
                     "type": "tabs",
                     "children": [
                       {
-                        "id": "c8b2f9c626dfe208",
+                        "id": "be5a22c6fc76eaef",
                         "type": "leaf",
                         "state": {
                           "type": "empty",
@@ -275,9 +275,9 @@
           "workspaces:Workspace-Layouts verwalten": false
         }
       },
-      "active": "4e0e0a586fdfc53a",
-      "mtime": "2024-10-29T12:32:18+01:00"
+      "active": "70c7986e9225152f",
+      "mtime": "2024-11-11T03:09:21+01:00"
     }
   },
-  "active": "Standard Studium"
+  "active": "Standart_Studium"
 }
