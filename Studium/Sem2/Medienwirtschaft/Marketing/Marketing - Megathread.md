@@ -17,7 +17,6 @@ Der Begriff **Marketing** oder (deutsch) [Absatzwirtschaft](https://de.wikipe
 2. Erntwerfen einer kundenorienterten Marketingstategie
 3. Entwicklung eines integrierten Marketingprogramms
 4. Der Aufbau von profitablen Kundenbeziehungen
-5. 
 ## Verstehen von Märkten und Kundenwünschen
 - Bedürfnisse, Wünsche, Nachfrage
 	- Bedürfnisse:

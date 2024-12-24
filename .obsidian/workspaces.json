@@ -277,7 +277,286 @@
       },
       "active": "70c7986e9225152f",
       "mtime": "2024-11-11T03:09:21+01:00"
+    },
+    "Standart": {
+      "main": {
+        "id": "5324373015726ba8",
+        "type": "split",
+        "children": [
+          {
+            "id": "004f9f8ec7153976",
+            "type": "split",
+            "children": [
+              {
+                "id": "cde0d1f61053618e",
+                "type": "tabs",
+                "dimension": 20.3125,
+                "children": [
+                  {
+                    "id": "58d0131ed62e76bb",
+                    "type": "leaf",
+                    "pinned": true,
+                    "state": {
+                      "type": "kanban",
+                      "state": {
+                        "file": "Studium/Anderes/Kanban Studium.md"
+                      },
+                      "pinned": true,
+                      "icon": "lucide-trello",
+                      "title": "Kanban Studium"
+                    }
+                  },
+                  {
+                    "id": "219f2cbad49ca0de",
+                    "type": "leaf",
+                    "pinned": true,
+                    "state": {
+                      "type": "kanban",
+                      "state": {
+                        "file": "Bewerbungen/Kanban Bewerbungen.md"
+                      },
+                      "pinned": true,
+                      "icon": "lucide-trello",
+                      "title": "Kanban Bewerbungen"
+                    }
+                  }
+                ],
+                "currentTab": 1
+              },
+              {
+                "id": "5e02b68998aa8a40",
+                "type": "split",
+                "dimension": 79.6875,
+                "children": [
+                  {
+                    "id": "4509724f8bf84da7",
+                    "type": "tabs",
+                    "children": [
+                      {
+                        "id": "bd0cb71ac28a3a93",
+                        "type": "leaf",
+                        "pinned": true,
+                        "state": {
+                          "type": "markdown",
+                          "state": {
+                            "file": "Homepage.md",
+                            "mode": "source",
+                            "source": false
+                          },
+                          "pinned": true,
+                          "icon": "lucide-file",
+                          "title": "Homepage"
+                        }
+                      }
+                    ]
+                  },
+                  {
+                    "id": "02b01d47a18c607d",
+                    "type": "tabs",
+                    "children": [
+                      {
+                        "id": "be5a22c6fc76eaef",
+                        "type": "leaf",
+                        "state": {
+                          "type": "empty",
+                          "state": {},
+                          "icon": "lucide-file",
+                          "title": "Neuer Tab"
+                        }
+                      }
+                    ]
+                  }
+                ],
+                "direction": "vertical"
+              }
+            ],
+            "direction": "horizontal"
+          }
+        ],
+        "direction": "vertical"
+      },
+      "left": {
+        "id": "07e47cff0a3c912b",
+        "type": "split",
+        "children": [
+          {
+            "id": "06ddc7e5cf7c1872",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "01679bbac2fdcb6f",
+                "type": "leaf",
+                "state": {
+                  "type": "file-explorer",
+                  "state": {
+                    "sortOrder": "alphabetical"
+                  },
+                  "icon": "lucide-folder-closed",
+                  "title": "Dateiexplorer"
+                }
+              },
+              {
+                "id": "493163709172a4c0",
+                "type": "leaf",
+                "state": {
+                  "type": "search",
+                  "state": {
+                    "query": "",
+                    "matchingCase": false,
+                    "explainSearch": false,
+                    "collapseAll": false,
+                    "extraContext": false,
+                    "sortOrder": "alphabetical"
+                  },
+                  "icon": "lucide-search",
+                  "title": "Suchen"
+                }
+              },
+              {
+                "id": "d1956b7e9eaf3a98",
+                "type": "leaf",
+                "state": {
+                  "type": "bookmarks",
+                  "state": {},
+                  "icon": "lucide-bookmark",
+                  "title": "Lesezeichen"
+                }
+              },
+              {
+                "id": "a6d8a16002795ade",
+                "type": "leaf",
+                "state": {
+                  "type": "graph",
+                  "state": {},
+                  "icon": "lucide-git-fork",
+                  "title": "Graphansicht"
+                }
+              }
+            ],
+            "currentTab": 1
+          }
+        ],
+        "direction": "horizontal",
+        "width": 300
+      },
+      "right": {
+        "id": "fc64e91e0f69209f",
+        "type": "split",
+        "children": [
+          {
+            "id": "2b175d64b90229c2",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "019c5c0508aed9de",
+                "type": "leaf",
+                "state": {
+                  "type": "backlink",
+                  "state": {
+                    "file": "Bewerbungen/Kanban Bewerbungen.md",
+                    "collapseAll": false,
+                    "extraContext": false,
+                    "sortOrder": "alphabetical",
+                    "showSearch": false,
+                    "searchQuery": "",
+                    "backlinkCollapsed": false,
+                    "unlinkedCollapsed": true
+                  },
+                  "icon": "links-coming-in",
+                  "title": "Rückverweise für Kanban Bewerbungen"
+                }
+              },
+              {
+                "id": "50cc9202ddc5a911",
+                "type": "leaf",
+                "state": {
+                  "type": "outgoing-link",
+                  "state": {
+                    "file": "Bewerbungen/Kanban Bewerbungen.md",
+                    "linksCollapsed": false,
+                    "unlinkedCollapsed": true
+                  },
+                  "icon": "links-going-out",
+                  "title": "Ausgehende Links von Kanban Bewerbungen öffnen"
+                }
+              },
+              {
+                "id": "a8e1117eb281485c",
+                "type": "leaf",
+                "state": {
+                  "type": "tag",
+                  "state": {
+                    "sortOrder": "frequency",
+                    "useHierarchy": true
+                  },
+                  "icon": "lucide-tags",
+                  "title": "Tags"
+                }
+              },
+              {
+                "id": "ebeb2d0642d51958",
+                "type": "leaf",
+                "state": {
+                  "type": "outline",
+                  "state": {
+                    "file": "Bewerbungen/Kanban Bewerbungen.md"
+                  },
+                  "icon": "lucide-list",
+                  "title": "Gliederung von Kanban Bewerbungen"
+                }
+              },
+              {
+                "id": "94cd1c2d9e971235",
+                "type": "leaf",
+                "state": {
+                  "type": "all-properties",
+                  "state": {
+                    "sortOrder": "frequency",
+                    "showSearch": false,
+                    "searchQuery": ""
+                  },
+                  "icon": "lucide-archive",
+                  "title": "All properties"
+                }
+              },
+              {
+                "id": "94c2cff217a8b1ba",
+                "type": "leaf",
+                "state": {
+                  "type": "todo",
+                  "state": {},
+                  "icon": "checkmark",
+                  "title": "Todo List"
+                }
+              }
+            ],
+            "currentTab": 5
+          }
+        ],
+        "direction": "horizontal",
+        "width": 300,
+        "collapsed": true
+      },
+      "left-ribbon": {
+        "hiddenItems": {
+          "homepage:Open homepage": false,
+          "canvas:Neuen Canvas erstellen": false,
+          "markdown-importer:Markdown Importprogramm öffnen": false,
+          "switcher:Schnellauswahl öffnen": false,
+          "graph:Graphen-Ansicht öffnen": false,
+          "daily-notes:Heutige Notiz öffnen": false,
+          "templates:Vorlage einfügen": false,
+          "command-palette:Befehlspalette öffnen": false,
+          "omnisearch:Omnisearch": false,
+          "handwritten-notes:Create empty handwritten note": false,
+          "obsidian-advanced-slides:Show Slide Preview": false,
+          "audio-recorder:Audioaufzeichnung starten/stoppen": false,
+          "workspaces:Workspace-Layouts verwalten": false
+        }
+      },
+      "active": "493163709172a4c0",
+      "mtime": "2024-12-15T22:54:03+01:00"
     }
   },
-  "active": "Standart_Studium"
+  "active": "Standart"
 }
